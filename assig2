@@ -47,5 +47,5 @@ filter -- as it creates an array filled with all array elements.
 
   for const -- it can only be accessed when they are declared in a block.
   it cant be updated or re-declared.
-   so its imp to initialized when its declared
+   -------- its imp to initialized when its declared.
 
